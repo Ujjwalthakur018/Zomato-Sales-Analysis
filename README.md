@@ -7,7 +7,7 @@ Zomato's operations, including restaurant details, location, ratings, online pre
 cost. This rich dataset allows for a granular understanding of customer behavior and market
 trends within the food service industry..
 ## Dataset used
-- <a href="https://github.com/Ujjwalthakur018/Netflix-movies-Analysis/blob/main/base-csv(netflix).csv">Dataset</a>
+- <a href="https://github.com/Ujjwalthakur018/Zomato-Sales-Analysis/blob/main/base%20file/zomato.csv">Dataset</a>
 
 ## KPIs
 - Restaurant Rating: Average Rating and High-Rated Restaurants.
